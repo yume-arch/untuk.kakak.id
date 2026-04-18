@@ -1,1 +1,1 @@
-# yume-arch-github.io
+# yume-arch.github.io
